@@ -20,7 +20,7 @@ This dashboard is for presenting my insights to the regional manager of the coff
 - This could be due to the  holiday season and we should be prepared for this trend next year
 - Resource management for peak months
 
-- 
+
 
 ## Data Story :
 I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce costs of operations.
